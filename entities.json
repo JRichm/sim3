@@ -1,0 +1,43 @@
+{
+    "entities": {
+        "Bot": {
+            "name": "Bot",
+            "speed": 0,
+            "health": 100,
+            "attack": 20,
+            "defense": 20,
+            "experience": 100,
+            "mana": 5,
+            "saturation": 1,
+            "color": "0, 255, 0",
+            "attr_color": "255, 0, 50",
+            "defl_color": "0, 255, 0"
+        },
+        "Apple": {
+            "name": "Apple",
+            "speed": 0,
+            "health": 20,
+            "attack": 0,
+            "defense": 0,
+            "experience": 5,
+            "mana": 5,
+            "saturation": 20,
+            "color": "255, 0, 0",
+            "attr_color": "80, 80, 80",
+            "defl_color": "0, 0, 0"
+        },
+        "Flank": {
+            "name": "Flank",
+            "speed": 5,
+            "health": 5,
+            "attack": 50,
+            "defense": 5,
+            "experience": 30,
+            "mana": 10,
+            "saturation": 5,
+            "color": "255, 255, 255",
+            "attr_color": "255, 255, 255",
+            "defl_color": "0, 0, 0"
+        }
+    }
+}
